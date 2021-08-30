@@ -1,3 +1,4 @@
+import React from "react";
 import ExpencesItem from "./Expences_item";
 import "../css/Expenses.css";
 function Expences(props){
